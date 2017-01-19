@@ -1,0 +1,1 @@
+int dodatno(int a);

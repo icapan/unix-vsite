@@ -1,0 +1,8 @@
+CC=gcc
+CFLAGS=-Wall
+
+main: include.h main.c aux.c
+	${CC} ${CFLAGS} -o main main.c aux.c
+
+clean:
+	rm -f *.o main
