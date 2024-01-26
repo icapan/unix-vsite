@@ -4,7 +4,7 @@ RM=/bin/rm -f
 
 all: main
 
-main.o: include.h main.c 
+main.o: main.c 
 	${CC} ${CFLAGS} -c $^
 aux.o: aux.c 
 	${CC} ${CFLAGS} -c $^
