@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 #define MAX_ELEMENTS 30000
-#define RAND_MAX 1000
 
 static void insertSort( int list[], int size )
 {
