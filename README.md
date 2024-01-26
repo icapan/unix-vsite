@@ -1,2 +1,2 @@
 # vsite-unix
-Potrebe predmeta na VSITE-u, primjer programa koji koristi ncurses library za potrebe izrade Makefilea.
+Potrebe predmeta na VSITE-u, razne datoteke potrebne za izvođenje laboratorijskih vježbi
